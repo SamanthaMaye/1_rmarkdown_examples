@@ -1,6 +1,6 @@
 ---
 title: "Discharge Data Example"
-author: "Matthew Ross"
+author: "Created by Matthew Ross, Completed by Samantha Clark"
 date: "Last compiled on `r format(Sys.time(), '%B %d, %Y')`"
 output:
   html_document:
@@ -130,9 +130,9 @@ If being in the water doesn't float your boat, there are many ways to enjoy the 
 Whether you embark on a great adventure along the Poudre, or just head up the canyon for a relaxing drive, you'll have a good day.
 
 ## Question 6-9:
-6: Knit that document, and then git commit and push to your personal GitHub. 
+6: Knit that document, and then git commit and push to your personal GitHub. (Completed)
 
-7: Use the GitHub -> Settings -> Pages tab to create a website of your report. 
+7: Use the GitHub -> Settings -> Pages tab to create a website of your report. (Completed)
 
 8: Bonus, make the timestamp in the header dynamic. As in it only adds
 todays date, not just a static date you enter. (Completed)
